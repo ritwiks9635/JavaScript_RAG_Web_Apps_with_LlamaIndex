@@ -1,4 +1,5 @@
 # JavaScript_RAG_Web_Apps_with_LlamaIndex
+[Complete](https://learn.deeplearning.ai/accomplishments/ac35d85a-7734-4ddc-832a-717c4fac7582?usp=sharing)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWzhICk67AdwBEtCUJXdSnEA5cXnc9SUhgw&usqp=CAU)
 People also ask What is LlamaIndex used for? With LlamaIndex you have an easy-to-use data/orchestration framework for ingesting, indexing, and querying your data for building generative AI applications. While we provide a simple example above to get started, the real power of LlamaIndex comes from the ability to build data-driven AI applications.
 
